@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Absolute 5",
+  "base_artist": "ワルキューレ／(美雲ΔJUNNA／フレイアΔ鈴木みのり／カナメΔ安野希世乃／レイナΔ東山奈央／マキナΔ西田望見)",
+  "createdAt": "2025-12-02T01:50:37.307884Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Absolute Beginners",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Absolute_Beginners_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Absolute Beginners",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_Absolute_Beginners_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Absolute Beginners",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Absolute_Beginners_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "absolute in doubt",
+      "artist": "Lil Peep feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/04_absolute_in_doubt_Lil_Peep_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Absolute In Doubt (feat. Wicca Phase Springs Eternal)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/05_Absolute_In_Doubt_(feat._Wicca_Phase_Springs_Eternal)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Absolute Beginners",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Absolute_Beginners_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Absolute Lithops Effect",
+      "artist": "The Mountain Goats",
+      "has_synced": false,
+      "path": "select/07_Absolute_Lithops_Effect_The_Mountain_Goats.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "An Absolute",
+      "artist": "Orcas",
+      "has_synced": true,
+      "path": "select/08_An_Absolute_Orcas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Enigma of the Absolute",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/09_Enigma_of_the_Absolute_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Absolute Beginners",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/10_Absolute_Beginners_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Absolute Power",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/11_Absolute_Power_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Absolute misanthropy",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/12_Absolute_misanthropy_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Absolute Zero",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/13_Absolute_Zero_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Absolute Hatred",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/14_Absolute_Hatred_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Symphony of the Absolute Bulwark",
+      "artist": "Inner Shrine",
+      "has_synced": false,
+      "path": "select/15_Symphony_of_the_Absolute_Bulwark_Inner_Shrine.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Absolute Power",
+      "artist": "Powermad",
+      "has_synced": true,
+      "path": "select/16_Absolute_Power_Powermad.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rage Absolute",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/17_Rage_Absolute_Annihilator.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_Absolute_Soul_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Absolute Soul",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_02_Absolute_Soul_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "absolute field",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_03_absolute_field_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Absolute Soul-shield-",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_04_Absolute_Soul-shield-_鈴木このみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Absolute Zero",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_05_Absolute_Zero_鈴木このみ.txt"
+    }
+  ]
+}
